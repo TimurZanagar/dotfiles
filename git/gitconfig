@@ -1,6 +1,6 @@
 [user]
-	email = agross@therightstuff.de
-	name = Alexander Groß
+	email = timur@zanagar.de
+	name = Timur Zanagar
 [core]
 	whitespace = trailing-space, space-before-tab, -indent-with-non-tab, cr-at-eol
 	quotepath = false
